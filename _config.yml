@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" #"dirt", "default" , "aqua", "contrast", "dark"
 locale                   : "ko-KR"
 title                    : "Programming Blog"
 title_separator          : "-"
-subtitle                 : "Version 2.0" # site tagline that appears below site title in masthead
+subtitle                 : "a novice programmer" # site tagline that appears below site title in masthead
 name                     : "Byungoo Choi"
 description              : "best blog in world "
 url                      : https://cbw6088.github.io/cbw.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
