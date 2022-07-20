@@ -888,6 +888,9 @@ while(1){
 </div>
 </details>
 
+<details>
+<summary> 배열 </summary>
+<div markdown="1">
 # C Programming 4차 과제
 
 ### 1. C_과제 1-2.c
@@ -1279,10 +1282,6 @@ int main(void){
 	return 0;
 }
 ```
-<details>
-<summary> 배열 </summary>
-<div markdown="1">
-
 </div>
 </details>
 
