@@ -1681,7 +1681,8 @@ int main(void){
 }
 
 ```
-
+</div>
+</details>
 
 <!--
 <details>
